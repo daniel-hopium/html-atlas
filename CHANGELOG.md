@@ -23,3 +23,12 @@ Kategorien: **Neu** (neue Funktionen), **Verbessert** (bestehendes Verhalten), *
   (`#forms/autocomplete`, Kurzform `#autocomplete`), zweisprachig, hell und dunkel.
 - Die Schwester-Apps Daumenregel, CSS-Atlas, ARIA-Kompass und Angular-Patterns als Kacheln
   im Überblick.
+
+### Verbessert
+- Neues App-Symbol im Stil der Schwester-App Daumenregel: dunkler Grund, blasse Linien und
+  ein goldener Akzent – alle fünf Apps sehen jetzt im Tab wie eine Familie aus. Dazu
+  `favicon.ico` für ältere Browser und ein Icon für den Homescreen (`apple-touch-icon.png`).
+
+### Intern
+- `tools/make_icons.py` erzeugt SVG, ICO und PNG aus einer einzigen Geometrie (braucht
+  Pillow).
