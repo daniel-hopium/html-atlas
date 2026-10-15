@@ -12,6 +12,8 @@ Kategorien: **Neu** (neue Funktionen), **Verbessert** (bestehendes Verhalten), *
 ## Unveröffentlicht
 
 ### Neu
+- Sonne/Mond-Knopf in der Kopfleiste: schaltet zwischen hellem und dunklem Design um. Die
+  Wahl bleibt gespeichert; ohne eigene Wahl gilt weiter die Systemeinstellung.
 - HTML-Atlas als eigene App: 110 Elemente und Attribute in zehn Kapiteln – von Text-Semantik
   über Formulare, Dialoge und Popover bis zu Bildern, Tabellen und dem Dokumentkopf.
 - Jeder Eintrag mit Live-Vorschau: Variante anklicken, Wirkung sehen, darunter das echte HTML
